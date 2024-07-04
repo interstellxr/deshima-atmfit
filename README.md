@@ -7,11 +7,3 @@ deshima-atmfit is a Python package which adjusts and atmospheric transmission mo
 An online Jupyter notebook is available (a Google account is necessary) :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UzD4JTTfT0zpwREfByMLgebAKUaQqXdi#scrollTo=8BTtHOikDAqB)
-
-If running in a local Python environment, please check requirements and installation guide below.
-
-## Requirements 
-
-## Usage
-
-## References
