@@ -2,11 +2,15 @@
 Python package for fitting an atmospheric transmission model to a DESHIMA spectrum to derive the PWV.
 
 ## Overview
-deshima-atmfit is a Python package which adjusts and atmospheric transmission model to an atmospheric spectrum obtained with DESHIMA to calculate the PWV. The model used in this package is the ATM model (Pardo et al. 2001). This package enables an in-situ estimation of the PWV. 
+deshima-atmfit is a Python package which adjusts and atmospheric transmission model to an atmospheric spectrum obtained with DESHIMA to calculate the PWV. The model used in this package is the ATM model (Pardo et al. 2001). This package enables an in-situ estimation of the PWV but can also be used to re-calibrate the DESHIMA instrument.
 
 The latest stable version is available as an online Jupyter notebook (a Google account is necessary) :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UzD4JTTfT0zpwREfByMLgebAKUaQqXdi#scrollTo=8BTtHOikDAqB)
+
+I also provide an example use of re-calibration : 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CHeoP6ttEtnndnquPzj61Fgn2WLYp1NH#scrollTo=BBw4pdSzoln_)
 
 ## Installation and requirements
 The package has several dependencies :
