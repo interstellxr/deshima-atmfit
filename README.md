@@ -8,9 +8,14 @@ The latest stable version is available as an online Jupyter notebook (a Google a
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UzD4JTTfT0zpwREfByMLgebAKUaQqXdi#scrollTo=8BTtHOikDAqB)
 
-I also provide an example use of re-calibration : 
+I also provide an example use of re-calibration (2023 data) : 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CHeoP6ttEtnndnquPzj61Fgn2WLYp1NH#scrollTo=BBw4pdSzoln_)
+
+And using off-source 2024 data (test code) : 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEYFrfvGMIuxXE5n1NDzvqjoA9CbU8BB?usp=sharing)
+
 
 ## Installation and requirements
 The package has several dependencies :
